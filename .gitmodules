@@ -1,0 +1,3 @@
+[submodule "hello-py"]
+	path = hello-py
+	url = https://github.com/xmxud/hellopy
